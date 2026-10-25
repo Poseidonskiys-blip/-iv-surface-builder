@@ -2,7 +2,7 @@
 
 A browser-based tool that works backwards from option prices to the volatility the market is pricing in, then plots it as an interactive 3D surface.
 
-**Live demo:** https://YOUR-USERNAME.github.io/iv-surface-builder
+**Live demo:** https://Poseidonskiys-blip.github.io/iv-surface-builder
 
 ## What it does
 
